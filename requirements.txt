@@ -1,0 +1,5 @@
+Django>=5.0,<6.0
+gunicorn>=22.0
+whitenoise>=6.6
+# Décommentez si vous utilisez PostgreSQL en production :
+# psycopg2-binary>=2.9
